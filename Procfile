@@ -1,3 +1,3 @@
 #------------------------------------- https://github.com/m4mallu/ashesOFpheonix -------------------------------------#
 
-WEB: python3 bot.py
+worker: python3 bot.py
